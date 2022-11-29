@@ -1,13 +1,6 @@
 {
   "name": "vue-dapp-temp",
-  "version": "0.0.1",
-  "description": "Vue 3 library for building Dapps on Ethereum",
-  "repository": "https://github.com/chnejohnson/vue-dapp",
-  "bugs": {
-    "url": "https://github.com/chnejohnson/vue-dapp/issues"
-  },
-  "homepage": "https://github.com/chnejohnson/vue-dapp#readme",
-  "author": "Johnson Chen <https://twitter.com/chnejohnson>",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "dist/index.common.js",
   "module": "dist/index.esm.js",
